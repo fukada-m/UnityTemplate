@@ -4,7 +4,7 @@
 
 - UniRX
 - TestFrameWork
-- Photon Engine
+- Photon Fusion 1.1.12
 
 ## 使いかた
 このリポジトリをフォークする
