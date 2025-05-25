@@ -6,9 +6,12 @@
 - TestFrameWork
 - Photon Fusion 1.1.12
 - TMPro
-- 日本語フォント
-  - TextMeshPro - Text(UI)コンポーネントのFont AssetにNoto Sans JPのSDFファイルをドラッグアンドドロップして利用する
-  - InputFieldにはレガシーを使用する。TextMeshProのInput Fieldでは日本語入力できない。
 
 ## 使いかた
-このリポジトリをフォークする
+このリポジトリをクローンする
+
+- 日本語フォントの使い方
+  - レガシーなら日本語フォントがそのまま使える
+  - TextMeshProの場合
+    - TextMeshPro - Text(UI)コンポーネントのFont AssetにNoto Sans JPのSDFファイルをドラッグアンドドロップして利用する
+  - InputFieldにはレガシーのみ日本語利用可。TextMeshProのInput Fieldでは日本語入力できないから
