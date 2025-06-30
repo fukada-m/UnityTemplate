@@ -5,7 +5,7 @@
 - UniRX
 - TestFrameWork
 - Photon Fusion 1.1.12
-- TMPro
+- TMPro (TMProのInput フィールドには日本語が入力できないので注意)
 
 ## 使いかた
 1. このリポジトリをクローンしてフォルダ名を変更する
